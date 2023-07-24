@@ -3,7 +3,7 @@
 #include <unordered_set>
 #include <string>
 using namespace std;
-// Wifi Range
+
 bool wifiRange(int N, string s, int x)
 {
     vector<char> temp;
